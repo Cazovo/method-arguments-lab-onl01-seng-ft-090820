@@ -1,2 +1,3 @@
 def introduction (name)
-    puts "Hi, my 
+    puts "Hi, my name is #{name}
+end
